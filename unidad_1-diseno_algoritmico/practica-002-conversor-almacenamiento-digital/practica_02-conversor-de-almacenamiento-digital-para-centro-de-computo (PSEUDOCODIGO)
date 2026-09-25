@@ -1,0 +1,13 @@
+Algoritmo Practica02_ConversorAlmacenamiento
+    
+1. inicio
+2. Definir capacidadGB, capacidadMB, capacidadKB, capacidadTB Como Real
+3. Escribir "Ingrese la capacidad en Gigabytes (GB):"
+4. Leer capacidadGB
+    capacidadMB <- capacidadGB * 1024
+    capacidadKB <- capacidadMB * 1024
+    capacidadTB <- capacidadGB / 1024
+5. Escribir "Capacidad en Megabytes (MB): ", capacidadMB
+6. Escribir "Capacidad en Kilobytes (KB): ", capacidadKB
+7. Escribir "Capacidad en Terabytes (TB): ", capacidadTB
+8. Final
