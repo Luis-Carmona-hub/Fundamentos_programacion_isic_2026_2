@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+tareas(1)
+22
+'cerrar base de datos'
+9
+tareas(2)
+23
+'detener servicios web'
+9
+tareas(3)
+20
+'finalizar procesos'
+4
+1
+62
+'Ingrese el tiempo inicial en segundos (debe ser mayor a 0): '
+5
+1
+17
+segundosIniciales
+8
+1
+1
+t
+1
+17
+segundosIniciales
+1
+1
+1
+1
+2
+-1
+4
+1
+36
+'Tiempo restante: ' , t, ' segundos'
+10
+4
+1
+32
+'servidor apagado correctamente'
+1
